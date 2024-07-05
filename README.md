@@ -12,22 +12,22 @@
 
 ### ```Teacher's area:```
 #### **Test here the [Professor Area](https://personal-uzkb4ysu.outsystemscloud.com/App/Professor)**
-- [] Graph with the percentage of votes measured and if you hover the mouse over it, the quantity in number appears.
+- [x] Graph with the percentage of votes measured and if you hover the mouse over it, the quantity in number appears.
 
-- [] The number of votes counted
-- [] Update chart button
-- [] Count reset button (clear)
-- [] Switch to enable graphics for students
-- [] Dropdown to change option captions (default is nothing)
+- [x] The number of votes counted
+- [x] Update chart button
+- [x] Count reset button (clear)
+- [x] Switch to enable graphics for students
+- [x] Dropdown to change option captions (default is nothing)
 
 ![Professor View](images/Professor.png)
 
 ### ```Student area:```
 #### **Test here the [Student Area](https://personal-uzkb4ysu.outsystemscloud.com/App/Questionario)**
-- [] Submit poll
+- [x] Submit poll
 Response graph (if the teacher enables it for students to view)
 
-- [] If you have any suggestions/improvements/corrections for my website, please contact me via email or create an issue with your suggestion! 
+- [x] If you have any suggestions/improvements/corrections for my website, please contact me via email or create an issue with your suggestion! 
 
 
 ![User View](images/User.png)
